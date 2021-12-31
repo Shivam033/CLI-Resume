@@ -6,6 +6,8 @@ A command Line Interface Resume is created where you can access my RESUME.
 - I have used inquirer and child_process node modules while making this project.
 -----------
 ### Preview ✨
-
+- Below is the screenshot of the project and a video link of the working project is also provided.
+[Click Here](https://drive.google.com/file/d/1gaEoWx26e5OP7yTcfAzwxeNciaXsE0jh/view?usp=sharing) <br/>
 ![](images/cli-preview.jpeg)
+
 -------------------
