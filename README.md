@@ -1,5 +1,5 @@
 ## CLI-Resume 📨
-A command Line Interface Resume is created where you can access my RESUME.
+- A command Line Interface Resume is created where you can access my RESUME.
 -----------
 ### Overview 💥
 - This is a fun project which gets you started with the world of javascript and the node modules
